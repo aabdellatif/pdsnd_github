@@ -83,8 +83,7 @@ def load_data(city, month, day):
         df = df[df['day_of_week'] == day.title()]
 
     if df.empty:
-        print("You must have filtered on something that didn't exist in the table, causing an empty table. Exiting program. Please restart the script.")
-        sys.exit()
+        sys.exit("You must have filtered on something that didn't exist in the table, causing an empty table. Exiting program. Please restart the script.")
 
     return df
 
