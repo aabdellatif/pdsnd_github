@@ -168,9 +168,9 @@ def user_stats(df):
         print("Most common year of birth: ", int(df['Birth Year'].mode()[0]), "\n")
     except KeyError:
         return
-
-    print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    finally:
+        print("\nThis took %s seconds." % (time.time() - start_time))
+        print('-'*40)
 
 
 def raw_data_request(df):
