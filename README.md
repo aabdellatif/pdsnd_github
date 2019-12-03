@@ -1,7 +1,7 @@
 ### __Bikeshare Project__
 
 ### Date created
-Project 2 created: Nov 10 2019
+Project 2 created: Nov 10 2019\
 README file created & GitHub fork: Dec 2 2019
 
 ### Description
