@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+GitHub project & README file created: Dec 2 2019
 
-### Project Title
-Replace the Project Title
+### Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This bikeshare project contains a python script that prompts the user to see some descriptive statistics for bikeshare data from either Chicago, Washington, or New York City. The script also allows the user to preview the data selected for a particular city.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Python & Pandas Documentation were used for the bikeshare project:
 
+https://docs.python.org/3/library/sys.html
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
