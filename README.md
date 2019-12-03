@@ -1,7 +1,8 @@
-### Date created
-GitHub project & README file created: Dec 2 2019
+### __Bikeshare Project__
 
-### Bikeshare Project
+### Date created
+Project 2 created: Nov 10 2019
+README file created & GitHub fork: Dec 2 2019
 
 ### Description
 This bikeshare project contains a python script that prompts the user to see some descriptive statistics for bikeshare data from either Chicago, Washington, or New York City. The script also allows the user to preview the data selected for a particular city.
